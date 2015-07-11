@@ -26,3 +26,8 @@
 *.exe
 *.out
 *.app
+
+# self
+bin
+build
+obj
